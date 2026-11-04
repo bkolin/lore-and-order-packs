@@ -2,6 +2,34 @@
   "format": 1,
   "packs": [
     {
+      "id": "american-football",
+      "name": "American Football Trivia",
+      "icon": "🏈",
+      "color": "#7C4A1E",
+      "category": "sports-leisure",
+      "subcategory": "american-football",
+      "tags": [
+        "nfl",
+        "rules",
+        "history",
+        "difficulty-mixed"
+      ],
+      "description": "Scoring, rules, Super Bowl history and the gridiron’s most famous plays.",
+      "version": 1,
+      "cards": 34,
+      "size": 9561,
+      "sha256": "2a69891284d36b09f2fb91e5fb18166768bf4af372063e5ed13f5270fcbc3381",
+      "contentHash": "f8af3f65a777552c1f08a8268e7159a0f73762a7c9250f4b51b69d60d690c0fb",
+      "url": "packs/american-football.json",
+      "bundled": false,
+      "features": {
+        "images": false,
+        "voice": false,
+        "audio": false
+      },
+      "media": []
+    },
+    {
       "id": "architecture",
       "name": "Architecture",
       "icon": "🏰",
@@ -242,6 +270,90 @@
       ]
     },
     {
+      "id": "baseball",
+      "name": "Baseball Trivia",
+      "icon": "⚾",
+      "color": "#B91C1C",
+      "category": "sports-leisure",
+      "subcategory": "baseball",
+      "tags": [
+        "mlb",
+        "rules",
+        "history",
+        "difficulty-mixed"
+      ],
+      "description": "Rules, legends, ballparks and famous records from America’s pastime.",
+      "version": 1,
+      "cards": 33,
+      "size": 9528,
+      "sha256": "a2b6efa685ebf1c070cd04dedcdba7f118d36bad652c704d8b4773f79246244f",
+      "contentHash": "7ab64ef7eb2e2810ec6c7791b0ad0cf5340eeddf4d41dae48f6e87eb0ccd4f4d",
+      "url": "packs/baseball.json",
+      "bundled": false,
+      "features": {
+        "images": false,
+        "voice": false,
+        "audio": false
+      },
+      "media": []
+    },
+    {
+      "id": "basketball",
+      "name": "Basketball Trivia",
+      "icon": "🏀",
+      "color": "#EA580C",
+      "category": "sports-leisure",
+      "subcategory": "basketball",
+      "tags": [
+        "nba",
+        "rules",
+        "history",
+        "difficulty-mixed"
+      ],
+      "description": "Hoops history, rules, nicknames and legendary nights on the hardwood.",
+      "version": 1,
+      "cards": 33,
+      "size": 10077,
+      "sha256": "e51b2c2529d89c5ba4b4a0a0d481edb044f466df7e3862c8fbd1fc55b5eb3391",
+      "contentHash": "03eb0cc4190c9de14bffa2394054145deeb1482dfb8c9e260ac000f0a69b9186",
+      "url": "packs/basketball.json",
+      "bundled": false,
+      "features": {
+        "images": false,
+        "voice": false,
+        "audio": false
+      },
+      "media": []
+    },
+    {
+      "id": "best-picture",
+      "name": "Best Picture Winners",
+      "icon": "🏆",
+      "color": "#B8860B",
+      "category": "film-tv",
+      "subcategory": "movies",
+      "tags": [
+        "oscars",
+        "awards",
+        "movies",
+        "difficulty-mixed"
+      ],
+      "description": "Which film took home the Academy Award for Best Picture? Each question names the year of the Oscars ceremony.",
+      "version": 1,
+      "cards": 38,
+      "size": 9256,
+      "sha256": "d625f6f39a46b994e627435d65bdcf6f56fc160dd9fb9eb855c009d672d2f734",
+      "contentHash": "06e1d32f8bd119c6c2d37ee9ca235f19dc01282312b08e6f1bf95fbdf8f6b4d1",
+      "url": "packs/best-picture.json",
+      "bundled": false,
+      "features": {
+        "images": false,
+        "voice": false,
+        "audio": false
+      },
+      "media": []
+    },
+    {
       "id": "cardiology",
       "name": "Cardiology",
       "icon": "🫀",
@@ -438,6 +550,118 @@
       "media": []
     },
     {
+      "id": "go-lang",
+      "name": "Go Trivia",
+      "icon": "🐹",
+      "color": "#00ADD8",
+      "category": "technology",
+      "subcategory": "programming",
+      "tags": [
+        "programming",
+        "code",
+        "history",
+        "difficulty-mixed"
+      ],
+      "description": "Gophers, goroutines, gofmt and a language born at Google — trivia for the curious and the compiled.",
+      "version": 1,
+      "cards": 32,
+      "size": 8607,
+      "sha256": "ca88f8275230de200e50611d2f1d98a11fd8bc4383c8588cd45246344166f507",
+      "contentHash": "72169234b039275b267bcf8e1505f4c419ae6bd02329ec4e9d802aaccd964bc5",
+      "url": "packs/go-lang.json",
+      "bundled": false,
+      "features": {
+        "images": false,
+        "voice": false,
+        "audio": false
+      },
+      "media": []
+    },
+    {
+      "id": "greek-mythology",
+      "name": "Greek Mythology",
+      "icon": "⚡",
+      "color": "#C08A2E",
+      "category": "history",
+      "subcategory": "mythology",
+      "tags": [
+        "gods",
+        "heroes",
+        "myths",
+        "difficulty-mixed"
+      ],
+      "description": "Olympians, Titans, heroes and the monsters they fought — plus their Roman names.",
+      "version": 1,
+      "cards": 37,
+      "size": 9040,
+      "sha256": "dfd08d14e8f714ad15380b3a3804e4196d68d15dbb765ef365dc5c8163dd6118",
+      "contentHash": "28d4f75d718ee012309e35c036d90fc52c1706014293dfe09f5959c3f12dd3d2",
+      "url": "packs/greek-mythology.json",
+      "bundled": false,
+      "features": {
+        "images": false,
+        "voice": false,
+        "audio": false
+      },
+      "media": []
+    },
+    {
+      "id": "java",
+      "name": "Java Trivia",
+      "icon": "☕",
+      "color": "#E76F00",
+      "category": "technology",
+      "subcategory": "programming",
+      "tags": [
+        "programming",
+        "code",
+        "history",
+        "difficulty-mixed"
+      ],
+      "description": "Oak trees, Duke the mascot, \"write once, run anywhere\" and some famously surprising one-liners.",
+      "version": 1,
+      "cards": 35,
+      "size": 9452,
+      "sha256": "7f9b3fa08645e3a4309ecd21f4e4847bc7bdc554824e6db021db5aa9f9b05056",
+      "contentHash": "6cac1a2a662e8cebd5678084d51a58f4823bd313f6c9454739e724559fd1479d",
+      "url": "packs/java.json",
+      "bundled": false,
+      "features": {
+        "images": false,
+        "voice": false,
+        "audio": false
+      },
+      "media": []
+    },
+    {
+      "id": "kotlin",
+      "name": "Kotlin Trivia",
+      "icon": "🟣",
+      "color": "#7F52FF",
+      "category": "technology",
+      "subcategory": "programming",
+      "tags": [
+        "programming",
+        "code",
+        "android",
+        "difficulty-mixed"
+      ],
+      "description": "An island near St Petersburg, the Elvis operator, null safety and coroutines — trivia about the language Android went \"first\" on.",
+      "version": 1,
+      "cards": 33,
+      "size": 8565,
+      "sha256": "2875253d360ff592c9b04c4aaad7b11a2311d9bc884cc2a4e3b20ace1dd04171",
+      "contentHash": "ee97ce2bd7c8158b4ce1e86601b44593b34b78c38ef4bbe0b23b62f14d4022db",
+      "url": "packs/kotlin.json",
+      "bundled": false,
+      "features": {
+        "images": false,
+        "voice": false,
+        "audio": false
+      },
+      "media": []
+    },
+    {
       "id": "logic",
       "name": "Logic & Riddles",
       "icon": "🧩",
@@ -456,6 +680,34 @@
       "contentHash": "b36d112a0e0e06fb1f0edf4c521a8f30a0310108b3614dfe8cf15cdf249260e8",
       "url": "packs/logic.json",
       "bundled": true,
+      "features": {
+        "images": false,
+        "voice": false,
+        "audio": false
+      },
+      "media": []
+    },
+    {
+      "id": "olympic-hosts",
+      "name": "Olympic Host Cities",
+      "icon": "🏅",
+      "color": "#2563EB",
+      "category": "sports-leisure",
+      "subcategory": "olympics",
+      "tags": [
+        "olympics",
+        "cities",
+        "history",
+        "difficulty-mixed"
+      ],
+      "description": "Which city hosted which Games? Summer and Winter Olympics from Athens 1896 onward.",
+      "version": 1,
+      "cards": 37,
+      "size": 10133,
+      "sha256": "5e01813b31a5505654397d8f69284330a59bc5da78b0c415c9d2c8a56da2ae17",
+      "contentHash": "c48dd6f7926c06c2fab0db25057504922394610d1e4838318854da71bb21993e",
+      "url": "packs/olympic-hosts.json",
+      "bundled": false,
       "features": {
         "images": false,
         "voice": false,
@@ -794,6 +1046,34 @@
       ]
     },
     {
+      "id": "periodic-table",
+      "name": "The Periodic Table",
+      "icon": "⚗️",
+      "color": "#0EA5A4",
+      "category": "science",
+      "subcategory": "chemistry",
+      "tags": [
+        "elements",
+        "symbols",
+        "chemistry",
+        "difficulty-mixed"
+      ],
+      "description": "Element symbols, atomic numbers, families and the stories behind element names.",
+      "version": 1,
+      "cards": 37,
+      "size": 9392,
+      "sha256": "d2ad1087d74aae27138cfe13f4b2d17e3e02f911b2bf878cd2565625062cc149",
+      "contentHash": "5f9b721ec3bfff5206424c50d347aa854310ba50b49bf87818bc554f8e0ce8c1",
+      "url": "packs/periodic-table.json",
+      "bundled": false,
+      "features": {
+        "images": false,
+        "voice": false,
+        "audio": false
+      },
+      "media": []
+    },
+    {
       "id": "pop-classics",
       "name": "Pop Culture Classics",
       "icon": "📺",
@@ -819,6 +1099,34 @@
         "images": false,
         "voice": false,
         "audio": true
+      },
+      "media": []
+    },
+    {
+      "id": "python",
+      "name": "Python Trivia",
+      "icon": "🐍",
+      "color": "#3776AB",
+      "category": "technology",
+      "subcategory": "programming",
+      "tags": [
+        "programming",
+        "code",
+        "history",
+        "difficulty-mixed"
+      ],
+      "description": "Monty Python, the Zen of Python, walruses and \"what does this print?\" — fun trivia about the world's friendliest language.",
+      "version": 1,
+      "cards": 37,
+      "size": 9676,
+      "sha256": "ddffd409c23fd88477e072d1ea44804cab3b568bdd21d6699680052950490c0c",
+      "contentHash": "bfe80d5bf96fb3a14994615aaa5d4d1e8788e81908b3a8c0d677f5be435d964b",
+      "url": "packs/python.json",
+      "bundled": false,
+      "features": {
+        "images": false,
+        "voice": false,
+        "audio": false
       },
       "media": []
     },
@@ -903,6 +1211,33 @@
       "media": []
     },
     {
+      "id": "us-presidents",
+      "name": "US Presidents",
+      "icon": "🇺🇸",
+      "color": "#2C4F8C",
+      "category": "history",
+      "subcategory": "us-history",
+      "tags": [
+        "usa",
+        "leaders",
+        "difficulty-mixed"
+      ],
+      "description": "Famous firsts, wartime leaders, vice presidents and the stories behind the office.",
+      "version": 1,
+      "cards": 35,
+      "size": 10745,
+      "sha256": "0a83e67aacd4a8761f99e6ecac6db966d9c2284b094547f86f84547f0b75b6f8",
+      "contentHash": "bdcbe502590a0cb8cdc929fbb2c9303b3319d074427d2e16173f4f738f271f70",
+      "url": "packs/us-presidents.json",
+      "bundled": false,
+      "features": {
+        "images": false,
+        "voice": false,
+        "audio": false
+      },
+      "media": []
+    },
+    {
       "id": "world-capitals",
       "name": "World Capitals",
       "icon": "🗺️",
@@ -921,6 +1256,34 @@
       "contentHash": "8eceec53c85380c48ca83a721dfad74f882589e7551854d6e9a077c48a04ffb2",
       "url": "packs/world-capitals.json",
       "bundled": true,
+      "features": {
+        "images": false,
+        "voice": false,
+        "audio": false
+      },
+      "media": []
+    },
+    {
+      "id": "world-cup",
+      "name": "World Cup Winners",
+      "icon": "⚽",
+      "color": "#15803D",
+      "category": "sports-leisure",
+      "subcategory": "football",
+      "tags": [
+        "fifa",
+        "soccer",
+        "history",
+        "difficulty-mixed"
+      ],
+      "description": "Champions, hosts and unforgettable moments from the FIFA World Cup, men’s and women’s.",
+      "version": 1,
+      "cards": 34,
+      "size": 9435,
+      "sha256": "392ea1b180248dfded28d66ff246a80006ae0931b1b7f76ef95ce0b7c981f77e",
+      "contentHash": "68854227154727a2925cc5ce679f66a556a68f70fdd46ad1321fd7d19a137e6f",
+      "url": "packs/world-cup.json",
+      "bundled": false,
       "features": {
         "images": false,
         "voice": false,
