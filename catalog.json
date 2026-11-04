@@ -794,6 +794,35 @@
       ]
     },
     {
+      "id": "pop-classics",
+      "name": "Pop Culture Classics",
+      "icon": "📺",
+      "color": "#C2563A",
+      "category": "music",
+      "subcategory": "screen",
+      "tags": [
+        "audio",
+        "pop-culture",
+        "film",
+        "tv",
+        "games"
+      ],
+      "description": "Hear a public-domain tune and name the show, film or game that made it famous.",
+      "version": 1,
+      "cards": 20,
+      "size": 10397,
+      "sha256": "6d84ded4f1372c329293d6f1ef2abb1281134e093d4a78c602448eb0b6c9d56b",
+      "contentHash": "d36cb31e8d59b36bbdec5193ece17f1632a0742c62a8dcd82bff7a0ba3e3fa10",
+      "url": "packs/pop-classics.json",
+      "bundled": true,
+      "features": {
+        "images": false,
+        "voice": false,
+        "audio": true
+      },
+      "media": []
+    },
+    {
       "id": "science",
       "name": "Science",
       "icon": "🧪",
