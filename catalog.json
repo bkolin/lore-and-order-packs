@@ -1,1 +1,1264 @@
-{ "format": 1, "packs": [] }
+{
+  "format": 1,
+  "packs": [
+    {
+      "id": "architecture",
+      "name": "Architecture",
+      "icon": "🏰",
+      "color": "#B45309",
+      "category": "art-literature",
+      "subcategory": "architecture",
+      "tags": [
+        "images",
+        "buildings"
+      ],
+      "description": "Read the clues in stone, glass and steel to name the architectural style.",
+      "info": [
+        "Photos: Wikimedia Commons, under CC BY-SA and other free licences; each photo's credit is shown with it."
+      ],
+      "version": 1,
+      "cards": 35,
+      "size": 4427223,
+      "sha256": "66e5c5bf198260d8207e0e5f13d7dd230693fc7e7ce58a746ca15b0c2ae6375e",
+      "contentHash": "329d5d38b43c430ed06882bb5842d734dec5e19dfd86454e539ba3d40d863280",
+      "url": "packs/architecture.json",
+      "bundled": false,
+      "features": {
+        "images": true,
+        "voice": false,
+        "audio": false
+      },
+      "media": [
+        {
+          "file": "art-deco-chrysler.jpg",
+          "size": 106801,
+          "sha256": "bcd959020ecbff5d53cb57464eefe5bab0477e1c60bfb8fb0d317dfaa40cd9b5",
+          "url": "packs/architecture/art-deco-chrysler.jpg"
+        },
+        {
+          "file": "art-deco-miami.jpg",
+          "size": 152065,
+          "sha256": "c416dd48b49805600333a8e1cbdc89067d3dd76f6a7c1f2e1880f26fe8a0dc97",
+          "url": "packs/architecture/art-deco-miami.jpg"
+        },
+        {
+          "file": "art-nouveau-casa-batllo.jpg",
+          "size": 199593,
+          "sha256": "549b232d17dd78b0871f5eba2b91166a0ba36a3a8a39fc22ed5e2d57dbc48389",
+          "url": "packs/architecture/art-nouveau-casa-batllo.jpg"
+        },
+        {
+          "file": "art-nouveau-features.jpg",
+          "size": 185010,
+          "sha256": "66ad55efc43d2f612313ed82eaa7462d5a99b2ebc1438b478aeb87e421fa1a2b",
+          "url": "packs/architecture/art-nouveau-features.jpg"
+        },
+        {
+          "file": "baroque-features.jpg",
+          "size": 90859,
+          "sha256": "fe930ef9dceacff3c8f23d3375f65fa1894853097879072dad7c828979d42f72",
+          "url": "packs/architecture/baroque-features.jpg"
+        },
+        {
+          "file": "baroque-st-peters-square.jpg",
+          "size": 104057,
+          "sha256": "1388f5efa1a898ed9a26803193f629d7179ea4a3d7dd5830b3dc13965581e5bb",
+          "url": "packs/architecture/baroque-st-peters-square.jpg"
+        },
+        {
+          "file": "baroque-versailles.jpg",
+          "size": 96990,
+          "sha256": "41d55bf581f37b1b770fae82cc7c524e60795f53f2ff87a126180a33a1c4c20c",
+          "url": "packs/architecture/baroque-versailles.jpg"
+        },
+        {
+          "file": "bauhaus-features.jpg",
+          "size": 65751,
+          "sha256": "539f373987c16f681534cbfbcd5d700d1707cdd3e225a111b67959dec7a59415",
+          "url": "packs/architecture/bauhaus-features.jpg"
+        },
+        {
+          "file": "brutalism-barbican.jpg",
+          "size": 129831,
+          "sha256": "e1cd01f596f61f3e46f21f98c87610c80cc0c131a3168a3e2faf97920f912296",
+          "url": "packs/architecture/brutalism-barbican.jpg"
+        },
+        {
+          "file": "brutalism-features.jpg",
+          "size": 92226,
+          "sha256": "37dbee56aead942cb01afaae9042ade0921c3f935569c106901b0edd639fcc65",
+          "url": "packs/architecture/brutalism-features.jpg"
+        },
+        {
+          "file": "byzantine-hagia-sophia.jpg",
+          "size": 126250,
+          "sha256": "f76f6505a7cfcb1f177c02a8e38e4ec7f420d147f98f19ad68114cbca553d489",
+          "url": "packs/architecture/byzantine-hagia-sophia.jpg"
+        },
+        {
+          "file": "byzantine-st-marks.jpg",
+          "size": 147746,
+          "sha256": "cb8acbf050bab48158e047f4fb35978986a8f8ac603c4481f59af5909b252b93",
+          "url": "packs/architecture/byzantine-st-marks.jpg"
+        },
+        {
+          "file": "deconstructivism-bilbao.jpg",
+          "size": 121669,
+          "sha256": "a2f74a76571792120b961b7022b029ca2ae2ea50640b9ac3cf6f57287831ee92",
+          "url": "packs/architecture/deconstructivism-bilbao.jpg"
+        },
+        {
+          "file": "georgian-features.jpg",
+          "size": 72077,
+          "sha256": "a01026b8125602feff1883628070d660b86a4b1bf1ae9e1ece2f4e8a060dbdbd",
+          "url": "packs/architecture/georgian-features.jpg"
+        },
+        {
+          "file": "georgian-royal-crescent.jpg",
+          "size": 159776,
+          "sha256": "e677b6110d5b1b4e930edfd949cf88cf1095e6c0bf3fe213d5df1bbb324235b6",
+          "url": "packs/architecture/georgian-royal-crescent.jpg"
+        },
+        {
+          "file": "gothic-features.jpg",
+          "size": 199105,
+          "sha256": "102d179cc761ae77a35b92093bdc179f201a2769ec2ba47a03db49f458bf0a8c",
+          "url": "packs/architecture/gothic-features.jpg"
+        },
+        {
+          "file": "gothic-notre-dame.jpg",
+          "size": 153397,
+          "sha256": "9d0e542188d663758551ea46a6a5a9721749727500f80c6849793885d740ee25",
+          "url": "packs/architecture/gothic-notre-dame.jpg"
+        },
+        {
+          "file": "islamic-alhambra.jpg",
+          "size": 165082,
+          "sha256": "e75afecc285354782d81e7d127d6a4fd76961f9cbd70895fc7f161767bd290dc",
+          "url": "packs/architecture/islamic-alhambra.jpg"
+        },
+        {
+          "file": "islamic-features.jpg",
+          "size": 125741,
+          "sha256": "d2865d152e31729abadce48de908063f6147cfc0972d722dc1a87a2e75eaf07c",
+          "url": "packs/architecture/islamic-features.jpg"
+        },
+        {
+          "file": "modernism-features.jpg",
+          "size": 197303,
+          "sha256": "6d58f463fe12fa59eb995686453eae6392b82b95b20217a44b5c809dd26adf24",
+          "url": "packs/architecture/modernism-features.jpg"
+        },
+        {
+          "file": "modernism-villa-savoye.jpg",
+          "size": 96914,
+          "sha256": "e8a9837a59dc911e33eed4c2f96c6dd7fda8826192519f51bdcc9b07efd3ad15",
+          "url": "packs/architecture/modernism-villa-savoye.jpg"
+        },
+        {
+          "file": "mughal-features.jpg",
+          "size": 93926,
+          "sha256": "1416d0478974c2a9c5ddd04a096b00612173b06a522ac3496b0e706385c1ca2d",
+          "url": "packs/architecture/mughal-features.jpg"
+        },
+        {
+          "file": "mughal-taj-mahal.jpg",
+          "size": 90713,
+          "sha256": "b1ff88f3c3a5cdfd7a36bf720a34f85bc3c6a0218ed14e1f91f5191bca274ba6",
+          "url": "packs/architecture/mughal-taj-mahal.jpg"
+        },
+        {
+          "file": "neoclassical-brandenburg-gate.jpg",
+          "size": 93131,
+          "sha256": "32e83cf5d4c8076fb4978826b55fd41a8625308e8cf426a07cb9512999c7230c",
+          "url": "packs/architecture/neoclassical-brandenburg-gate.jpg"
+        },
+        {
+          "file": "neoclassical-features.jpg",
+          "size": 83644,
+          "sha256": "2878925c4a95bbc6db7c0f9fd7b17fc3a4f803a76e6fc120ecee0d96c9974a73",
+          "url": "packs/architecture/neoclassical-features.jpg"
+        },
+        {
+          "file": "pagoda-features.jpg",
+          "size": 148695,
+          "sha256": "4796c03d2f1fb2df091f50e35cb7a9322b885766bf61ffcba306013a2e90fc7f",
+          "url": "packs/architecture/pagoda-features.jpg"
+        },
+        {
+          "file": "pagoda-horyuji.jpg",
+          "size": 109169,
+          "sha256": "e7845aa4b5c737cff9db4b0e3d20b1b5bd0282a9428b10dfeeadcfe9d0b4e6d7",
+          "url": "packs/architecture/pagoda-horyuji.jpg"
+        },
+        {
+          "file": "postmodern-features.jpg",
+          "size": 120590,
+          "sha256": "7e836407d9734b5fa3d264965accfc620c980f7c5be65f799affbdd864ed5844",
+          "url": "packs/architecture/postmodern-features.jpg"
+        },
+        {
+          "file": "renaissance-features.jpg",
+          "size": 94722,
+          "sha256": "a06ed614b291a36e1f83fede87095938930b747b34ceb04c663df0a42b22ab2a",
+          "url": "packs/architecture/renaissance-features.jpg"
+        },
+        {
+          "file": "renaissance-villa-rotonda.jpg",
+          "size": 102873,
+          "sha256": "1af8379cea2d8673b24af5aa7c2fa725355a584ed28702fc1c7815a7962d8e62",
+          "url": "packs/architecture/renaissance-villa-rotonda.jpg"
+        },
+        {
+          "file": "romanesque-features.jpg",
+          "size": 124191,
+          "sha256": "93d395786d85ae27a61c203cc4043bd9b19a97a8f1e0ffd781c7092626171c59",
+          "url": "packs/architecture/romanesque-features.jpg"
+        },
+        {
+          "file": "romanesque-pisa.jpg",
+          "size": 97861,
+          "sha256": "a478eeccc4117132728051948cb5f8ab10e4070c58a0efa8b914073f6a50ba6e",
+          "url": "packs/architecture/romanesque-pisa.jpg"
+        },
+        {
+          "file": "tudor-features.jpg",
+          "size": 144269,
+          "sha256": "b6ab5deb946e632fcdd586b195fe724c71d8843239151bddc066193ba312fa1d",
+          "url": "packs/architecture/tudor-features.jpg"
+        },
+        {
+          "file": "tudor-hampton-court.jpg",
+          "size": 190174,
+          "sha256": "c5f948b8ec92c30339e76de1e763a2edb42eea6edaa42c15e1dc16ff0de6645a",
+          "url": "packs/architecture/tudor-hampton-court.jpg"
+        },
+        {
+          "file": "victorian-painted-ladies.jpg",
+          "size": 122195,
+          "sha256": "fee9401229dff0a37afb7ca43afbe6fc28ae521a9338368d7cb2ef3da5173605",
+          "url": "packs/architecture/victorian-painted-ladies.jpg"
+        }
+      ]
+    },
+    {
+      "id": "cardiology",
+      "name": "Cardiology",
+      "icon": "🫀",
+      "color": "#E11D48",
+      "category": "professional",
+      "subcategory": "medicine",
+      "tags": [
+        "images",
+        "cardiology",
+        "ecg",
+        "physician-level",
+        "difficulty-hard"
+      ],
+      "description": "ECGs, murmurs, eponyms, drugs, scores and landmark trials, from wards to fellowship.",
+      "info": [
+        "ECG strips: Wikimedia Commons under free licences, credited per image. Not medical advice."
+      ],
+      "version": 1,
+      "cards": 102,
+      "size": 2533730,
+      "sha256": "750bf2f1e856998e1fc5d7a57252182dbdd40084f8d5848a6e4e45da3710cb36",
+      "contentHash": "282801cc22d26314be0cbb2312e235b4ea363ce4139c76c22f12978c6b18f90e",
+      "url": "packs/cardiology.json",
+      "bundled": true,
+      "features": {
+        "images": true,
+        "voice": false,
+        "audio": false
+      },
+      "media": [
+        {
+          "file": "ecg-anterior-stemi.jpg",
+          "size": 224977,
+          "sha256": "ad6820092968549effc703a8ee5a890b3ba231435fb1d910e539ee081c125335",
+          "url": "packs/cardiology/ecg-anterior-stemi.jpg"
+        },
+        {
+          "file": "ecg-atrial-fibrillation.jpg",
+          "size": 104503,
+          "sha256": "13c7533e6e0852598586d2a1f74c9d84a6db8d263fbcf90df1d0f9fd2e429ec2",
+          "url": "packs/cardiology/ecg-atrial-fibrillation.jpg"
+        },
+        {
+          "file": "ecg-atrial-flutter.jpg",
+          "size": 77939,
+          "sha256": "ce3cc67f001ec5cf5f3db646e416a28a733a97238a057ec13cb2b47482ca995c",
+          "url": "packs/cardiology/ecg-atrial-flutter.jpg"
+        },
+        {
+          "file": "ecg-brugada.jpg",
+          "size": 168570,
+          "sha256": "aec1e4041fe5b556c408140dbe227426d834fe9956268c9e27759f4affc22f2a",
+          "url": "packs/cardiology/ecg-brugada.jpg"
+        },
+        {
+          "file": "ecg-complete-heart-block.jpg",
+          "size": 64492,
+          "sha256": "64f394e18cc6ba8e9effdd91178ce3b9e88449aa53d6f3d086bc1d0e23549b6a",
+          "url": "packs/cardiology/ecg-complete-heart-block.jpg"
+        },
+        {
+          "file": "ecg-electrical-alternans.jpg",
+          "size": 173749,
+          "sha256": "b15c594f56dec8fa8e5dea6b0fc57bddf915bc0464679fcba5a95023eeddaf89",
+          "url": "packs/cardiology/ecg-electrical-alternans.jpg"
+        },
+        {
+          "file": "ecg-hyperkalemia.jpg",
+          "size": 176365,
+          "sha256": "c7588442e5dc182397c7a031ffe5d31116053ccaaab2bc6703c43381613e0fd8",
+          "url": "packs/cardiology/ecg-hyperkalemia.jpg"
+        },
+        {
+          "file": "ecg-inferior-leads.jpg",
+          "size": 134875,
+          "sha256": "7d8b39a477cc123025734dc993ff1d486eab9e44dcce064561a12116c4df0e2a",
+          "url": "packs/cardiology/ecg-inferior-leads.jpg"
+        },
+        {
+          "file": "ecg-lvh.jpg",
+          "size": 180027,
+          "sha256": "7917be616e9259b637dfdbc78421466b23a1113044d29af3e3e8919662b5b3b1",
+          "url": "packs/cardiology/ecg-lvh.jpg"
+        },
+        {
+          "file": "ecg-pericarditis.jpg",
+          "size": 180825,
+          "sha256": "a2ce1c7ca31ce7466043cb544c1f78ae6278938d42c4d1d9c4637e661dccc365",
+          "url": "packs/cardiology/ecg-pericarditis.jpg"
+        },
+        {
+          "file": "ecg-rbbb.jpg",
+          "size": 101110,
+          "sha256": "b3c0a182c43e0c1b8600781651711224543acc1bb9da49d1d91244cf37aaddb6",
+          "url": "packs/cardiology/ecg-rbbb.jpg"
+        },
+        {
+          "file": "ecg-svt.jpg",
+          "size": 95061,
+          "sha256": "269b109fbaab302bbaa6bd8ec9bae78c8c8786044192100d0dd1a6823e499f27",
+          "url": "packs/cardiology/ecg-svt.jpg"
+        },
+        {
+          "file": "ecg-torsades.jpg",
+          "size": 68863,
+          "sha256": "6666d5454bf748501fe2131d8eaf2639812e103bcb75087856dcc6c998a0d7a2",
+          "url": "packs/cardiology/ecg-torsades.jpg"
+        },
+        {
+          "file": "ecg-ventricular-fibrillation.jpg",
+          "size": 119245,
+          "sha256": "08188c53f05334d001afd38fa834ea5a99a60eb7522f41c7a807010363d097a0",
+          "url": "packs/cardiology/ecg-ventricular-fibrillation.jpg"
+        },
+        {
+          "file": "ecg-ventricular-tachycardia.jpg",
+          "size": 193256,
+          "sha256": "9529872528a658123ab23e779101f5e8786324bdeed8f201498755a38638c64c",
+          "url": "packs/cardiology/ecg-ventricular-tachycardia.jpg"
+        },
+        {
+          "file": "ecg-wellens.jpg",
+          "size": 149497,
+          "sha256": "1eafd310023271e80109b7a066df5baa621db53655db9053944005694b91d693",
+          "url": "packs/cardiology/ecg-wellens.jpg"
+        },
+        {
+          "file": "ecg-wenckebach.jpg",
+          "size": 9742,
+          "sha256": "baf678f60f285c9eb2d6b533fcef1a31a4b74746e0cdacdfb738254091c24633",
+          "url": "packs/cardiology/ecg-wenckebach.jpg"
+        },
+        {
+          "file": "ecg-wpw.jpg",
+          "size": 177038,
+          "sha256": "bd7647fb0db2847f911cd10c3be8ecaa3a7d9a28bc3750073756ee94383898db",
+          "url": "packs/cardiology/ecg-wpw.jpg"
+        },
+        {
+          "file": "exam-janeway.jpg",
+          "size": 88328,
+          "sha256": "315758ee8095825d21193d58dd4c418a9336cef0d6fe18fa4eb4ec99a180fd59",
+          "url": "packs/cardiology/exam-janeway.jpg"
+        }
+      ]
+    },
+    {
+      "id": "chinese",
+      "name": "Mandarin Chinese",
+      "icon": "🐉",
+      "color": "#DC2626",
+      "category": "language",
+      "subcategory": "mandarin",
+      "tags": [
+        "voice",
+        "beginner"
+      ],
+      "description": "Simplified characters with pinyin, from first words to short sentences.",
+      "version": 1,
+      "cards": 64,
+      "size": 14533,
+      "sha256": "b64c444a584b3591b2ebb7e38aa88714c624ca4da59f8abc3de0d57adac8fb1c",
+      "contentHash": "559c598eff41d65ac7b575394d0b7fe7c13e8387fd123eb03c1068eeb5c4af0a",
+      "url": "packs/chinese.json",
+      "bundled": true,
+      "features": {
+        "images": false,
+        "voice": true,
+        "audio": false
+      },
+      "media": []
+    },
+    {
+      "id": "classical",
+      "name": "Name That Tune: Classical",
+      "icon": "🎻",
+      "color": "#7C5CBF",
+      "category": "music",
+      "subcategory": "classical",
+      "tags": [],
+      "description": "Hear a famous classical theme and name the piece. The sooner you know it, the harder you hit.",
+      "version": 1,
+      "cards": 25,
+      "size": 14391,
+      "sha256": "d14056b2a4a0a7db28bfdaa9ba95654f9bc8d476b72868c2d22509fa79492122",
+      "contentHash": "064ce3b79358dfc259b85d6c3b5527977361975c5b1795c03251acbf64acec1c",
+      "url": "packs/classical.json",
+      "bundled": true,
+      "features": {
+        "images": false,
+        "voice": false,
+        "audio": true
+      },
+      "media": []
+    },
+    {
+      "id": "logic",
+      "name": "Logic & Riddles",
+      "icon": "🧩",
+      "color": "#14B8A6",
+      "category": "mind-logic",
+      "subcategory": "puzzles",
+      "tags": [
+        "riddles",
+        "difficulty-mixed"
+      ],
+      "description": "Sequences, odd-ones-out, syllogisms, riddles and brain-bending word problems.",
+      "version": 1,
+      "cards": 50,
+      "size": 12305,
+      "sha256": "b36c8e1f0bdacc362e8cc19d2ce8b75f9a8d5ec95354842629de78f580c341a9",
+      "contentHash": "b36d112a0e0e06fb1f0edf4c521a8f30a0310108b3614dfe8cf15cdf249260e8",
+      "url": "packs/logic.json",
+      "bundled": true,
+      "features": {
+        "images": false,
+        "voice": false,
+        "audio": false
+      },
+      "media": []
+    },
+    {
+      "id": "paintings",
+      "name": "Famous Paintings",
+      "icon": "🖼️",
+      "color": "#A855F7",
+      "category": "art-literature",
+      "subcategory": "painting",
+      "tags": [
+        "images",
+        "western-art"
+      ],
+      "description": "Name the master behind history's most celebrated canvases.",
+      "info": [
+        "Artwork images: public domain, via Wikimedia Commons; seven works still in copyright are text-only."
+      ],
+      "version": 1,
+      "cards": 57,
+      "size": 6636874,
+      "sha256": "3979e800d59d5f7d8c8a8f1bbbe8f3268c74b8f8b7328f21579a70ba75e94c10",
+      "contentHash": "e193443f3d20465dc7bcd9d1e12aece13e634ec71d7b42de62e847675f39c2dc",
+      "url": "packs/paintings.json",
+      "bundled": true,
+      "features": {
+        "images": true,
+        "voice": false,
+        "audio": false
+      },
+      "media": [
+        {
+          "file": "a-bar-at-the-folies-bergere.jpg",
+          "size": 161610,
+          "sha256": "8c79e87cdc37cabba024cd7fb146db648c84db89bd5cbd72e68c8c22bfc9a679",
+          "url": "packs/paintings/a-bar-at-the-folies-bergere.jpg"
+        },
+        {
+          "file": "a-sunday-on-la-grande-jatte.jpg",
+          "size": 185322,
+          "sha256": "e044548cc09ddd06077a181f1a57e834ed1eb024b2c22be160e99bc8355df107",
+          "url": "packs/paintings/a-sunday-on-la-grande-jatte.jpg"
+        },
+        {
+          "file": "american-gothic.jpg",
+          "size": 129514,
+          "sha256": "e2acd7a32fb31ab40cfeda57f493186989ac7fd7984347750780b621ba3266dd",
+          "url": "packs/paintings/american-gothic.jpg"
+        },
+        {
+          "file": "arrangement-in-grey-and-black.jpg",
+          "size": 105885,
+          "sha256": "e87003f5e3c517be4a0dcf051b78aa875d0c90e3d07af07af0e12af141518518",
+          "url": "packs/paintings/arrangement-in-grey-and-black.jpg"
+        },
+        {
+          "file": "bal-du-moulin-de-la-galette.jpg",
+          "size": 181923,
+          "sha256": "e0e6018d445f733aef724fe55b7670865468da67b81073dc7a3b59adc25938c1",
+          "url": "packs/paintings/bal-du-moulin-de-la-galette.jpg"
+        },
+        {
+          "file": "black-square.jpg",
+          "size": 135412,
+          "sha256": "0941fa54633f85a8211c405c3e7710529ccac566a54ae1086f655cc4d22f27f5",
+          "url": "packs/paintings/black-square.jpg"
+        },
+        {
+          "file": "composition-with-red-blue-and-yellow.jpg",
+          "size": 82633,
+          "sha256": "5fcb325a01d81642945bb8a5ac7b16f4eb9f15984ac452906dbae52dd3b83016",
+          "url": "packs/paintings/composition-with-red-blue-and-yellow.jpg"
+        },
+        {
+          "file": "girl-with-a-pearl-earring.jpg",
+          "size": 132408,
+          "sha256": "5045f7a9fb5e5234953d2728efca50a113f22dbeba7b1582dfdbda8c27734a6a",
+          "url": "packs/paintings/girl-with-a-pearl-earring.jpg"
+        },
+        {
+          "file": "impression-sunrise.jpg",
+          "size": 102413,
+          "sha256": "c1cb0c19f2bb7773930a66ea2f55145b8ebb9fed86ef7844d202219e43c4bc54",
+          "url": "packs/paintings/impression-sunrise.jpg"
+        },
+        {
+          "file": "las-meninas.jpg",
+          "size": 101261,
+          "sha256": "ad1ae81dbe362b479918ade484a6b1c3fa290d2afae6322483f124af8e0c4d59",
+          "url": "packs/paintings/las-meninas.jpg"
+        },
+        {
+          "file": "le-dejeuner-sur-lherbe.jpg",
+          "size": 122508,
+          "sha256": "9c9181a9a8539cee8adeff7260a7b480ba49d29b3d5f9cda4b9bd71890ab6d01",
+          "url": "packs/paintings/le-dejeuner-sur-lherbe.jpg"
+        },
+        {
+          "file": "liberty-leading-the-people.jpg",
+          "size": 155452,
+          "sha256": "a5e050086a4a73d4192a6f88cf7ea5cf15ebeda1d272456deffc7001ee8020c6",
+          "url": "packs/paintings/liberty-leading-the-people.jpg"
+        },
+        {
+          "file": "luncheon-of-the-boating-party.jpg",
+          "size": 149557,
+          "sha256": "04da0bf200fc9dde409cc8ef2cdbd2a33867f12e797d50e886696c6b252864d2",
+          "url": "packs/paintings/luncheon-of-the-boating-party.jpg"
+        },
+        {
+          "file": "madame-x.jpg",
+          "size": 38692,
+          "sha256": "ef8380d003e5dbca8af8dabfacb0314118c03f6b5bb0a59950e224bdb6e6e27b",
+          "url": "packs/paintings/madame-x.jpg"
+        },
+        {
+          "file": "mona-lisa.jpg",
+          "size": 119429,
+          "sha256": "bb59978e193f55c48eea43659c7555964c529ed71ca10ab0a65aabdacd191b59",
+          "url": "packs/paintings/mona-lisa.jpg"
+        },
+        {
+          "file": "napoleon-crossing-the-alps.jpg",
+          "size": 147209,
+          "sha256": "f2fb963a3f42bfd7011ec2a71de362c2224de8d671804d797351487b4d4b3c0c",
+          "url": "packs/paintings/napoleon-crossing-the-alps.jpg"
+        },
+        {
+          "file": "ophelia.jpg",
+          "size": 171696,
+          "sha256": "3d7bc03edcdc7e6969c485021371862d8c4b7476e92564885430f7eccd685246",
+          "url": "packs/paintings/ophelia.jpg"
+        },
+        {
+          "file": "primavera.jpg",
+          "size": 172393,
+          "sha256": "2755a39eaabdb29b03c840567f8655505d3a5857d9cd1953444aef86ab50601a",
+          "url": "packs/paintings/primavera.jpg"
+        },
+        {
+          "file": "the-ambassadors.jpg",
+          "size": 175643,
+          "sha256": "a9994fb5e4ff69b42036b42f1108e2174a7f8ff83931353cc2f41192ecba91a9",
+          "url": "packs/paintings/the-ambassadors.jpg"
+        },
+        {
+          "file": "the-arnolfini-portrait.jpg",
+          "size": 80430,
+          "sha256": "99778f1c57e2cf86a1d8f0206adf5069b3c6e71585f451dc2d8812fa813e1bd2",
+          "url": "packs/paintings/the-arnolfini-portrait.jpg"
+        },
+        {
+          "file": "the-birth-of-venus.jpg",
+          "size": 120271,
+          "sha256": "46ede317bf96352db192ce0b1b208b546be41831aae57e9b125b43873121f465",
+          "url": "packs/paintings/the-birth-of-venus.jpg"
+        },
+        {
+          "file": "the-calling-of-saint-matthew.jpg",
+          "size": 91352,
+          "sha256": "8e8b0ad0a16aff0ded6c27c67a47b10cb6ad61d434f09c0c28d944d2605dc899",
+          "url": "packs/paintings/the-calling-of-saint-matthew.jpg"
+        },
+        {
+          "file": "the-card-players.jpg",
+          "size": 161287,
+          "sha256": "cedbaea8d48648c63a5323e4b0760afb8b283b67dda8b92bb8efe93e2a7a0d54",
+          "url": "packs/paintings/the-card-players.jpg"
+        },
+        {
+          "file": "the-creation-of-adam.jpg",
+          "size": 85134,
+          "sha256": "7799f82f713be8b4fb993ef95c04351bcb805c3563a8c799886c7c3a9d508a4c",
+          "url": "packs/paintings/the-creation-of-adam.jpg"
+        },
+        {
+          "file": "the-dance-class.jpg",
+          "size": 148014,
+          "sha256": "48f4de1e70012074dfcb64eb95671c48569d9155a6303321d83f0abaf29c3c94",
+          "url": "packs/paintings/the-dance-class.jpg"
+        },
+        {
+          "file": "the-dance.jpg",
+          "size": 75180,
+          "sha256": "e4802a93c5615b300597ef4e074499a6988f1dbf85cc78d4d518d36eeff3d9ed",
+          "url": "packs/paintings/the-dance.jpg"
+        },
+        {
+          "file": "the-death-of-marat.jpg",
+          "size": 83637,
+          "sha256": "071124d0ea41af8b23cab05c243c221ad05818353cbb66ba66429587c948c389",
+          "url": "packs/paintings/the-death-of-marat.jpg"
+        },
+        {
+          "file": "the-fighting-temeraire.jpg",
+          "size": 93362,
+          "sha256": "dd5621125b46beb9257679127120aef76c750822c8c2246492e210a4eae387e3",
+          "url": "packs/paintings/the-fighting-temeraire.jpg"
+        },
+        {
+          "file": "the-garden-of-earthly-delights.jpg",
+          "size": 154648,
+          "sha256": "a881199372a9b31424989a89c9c30450834e3ab99063f24f287cb92a431a440a",
+          "url": "packs/paintings/the-garden-of-earthly-delights.jpg"
+        },
+        {
+          "file": "the-gleaners.jpg",
+          "size": 118715,
+          "sha256": "3a922567eabb3d5abb42ef740831c4e5a2d73b797fac9e35e81ea7bc0c348af6",
+          "url": "packs/paintings/the-gleaners.jpg"
+        },
+        {
+          "file": "the-great-wave-off-kanagawa.jpg",
+          "size": 168395,
+          "sha256": "74e9ea1baf4f8f88973426f2a2cd292465c619c7747fca473c7ce55ba7c12634",
+          "url": "packs/paintings/the-great-wave-off-kanagawa.jpg"
+        },
+        {
+          "file": "the-hay-wain.jpg",
+          "size": 147151,
+          "sha256": "21d9357fd8fdded593b5efd50ffb9c6ab9fd69414018e967b72d69fe3c458b47",
+          "url": "packs/paintings/the-hay-wain.jpg"
+        },
+        {
+          "file": "the-hunters-in-the-snow.jpg",
+          "size": 181769,
+          "sha256": "bf1b9b8693683a2f73705273762d3be83b38f0981a178312ca0a426937584d12",
+          "url": "packs/paintings/the-hunters-in-the-snow.jpg"
+        },
+        {
+          "file": "the-kiss.jpg",
+          "size": 176586,
+          "sha256": "14895003183605fc85615670a602b287cc5a4ad1f9c08a42d704f537c87e1a65",
+          "url": "packs/paintings/the-kiss.jpg"
+        },
+        {
+          "file": "the-lady-of-shalott.jpg",
+          "size": 166167,
+          "sha256": "f567ebf55804249bc34c034d7267fe1d5e6c2eeb59e0a8630a0166f8a203c63a",
+          "url": "packs/paintings/the-lady-of-shalott.jpg"
+        },
+        {
+          "file": "the-last-supper.jpg",
+          "size": 100489,
+          "sha256": "1d2cb0c0ee3177fb3ccc3650d5313af8ba11287f36dd10c3224af2548e67a1e2",
+          "url": "packs/paintings/the-last-supper.jpg"
+        },
+        {
+          "file": "the-milkmaid.jpg",
+          "size": 154450,
+          "sha256": "17a435d1ef5b8703617c311cf825f830e60a136597fe31adf3565e4ed5e60b67",
+          "url": "packs/paintings/the-milkmaid.jpg"
+        },
+        {
+          "file": "the-night-watch.jpg",
+          "size": 118822,
+          "sha256": "71a530b199b19124cb72917e681fd5b34bd9757be3420f6ce8f39f1fd0b872e9",
+          "url": "packs/paintings/the-night-watch.jpg"
+        },
+        {
+          "file": "the-raft-of-the-medusa.jpg",
+          "size": 139747,
+          "sha256": "af1241688cf07f612fe17cc132f6e32522a37fb4674168394c3ce8d949149016",
+          "url": "packs/paintings/the-raft-of-the-medusa.jpg"
+        },
+        {
+          "file": "the-school-of-athens.jpg",
+          "size": 192209,
+          "sha256": "0cc2362c1fc077c09d6fcf875a86670b7fbdc105389706a07dbde9ec9f0c7e5c",
+          "url": "packs/paintings/the-school-of-athens.jpg"
+        },
+        {
+          "file": "the-scream.jpg",
+          "size": 128352,
+          "sha256": "8784c695c891a4573b744573d00641f1b64e0246bbb174e96c1cf875406e536b",
+          "url": "packs/paintings/the-scream.jpg"
+        },
+        {
+          "file": "the-sleeping-gypsy.jpg",
+          "size": 80467,
+          "sha256": "2fe070c35d95fcc5f359023f9214e1b642d0755be2a0506b77449983c2e55e71",
+          "url": "packs/paintings/the-sleeping-gypsy.jpg"
+        },
+        {
+          "file": "the-starry-night.jpg",
+          "size": 192485,
+          "sha256": "0c6f72a8eb4e054e70109ac7e275fce20d48eb851a0bf8e7fb60b0200f469700",
+          "url": "packs/paintings/the-starry-night.jpg"
+        },
+        {
+          "file": "the-swing.jpg",
+          "size": 155042,
+          "sha256": "f02c7f89cf614a25e22ef7f395d4ca9ee34ed21c18e1ba51204593b1060314f3",
+          "url": "packs/paintings/the-swing.jpg"
+        },
+        {
+          "file": "the-third-of-may-1808.jpg",
+          "size": 95202,
+          "sha256": "d37106c75ca44f5142a366f9930dbad6ccc25b0bc81855f1b4752b49fc4f1bca",
+          "url": "packs/paintings/the-third-of-may-1808.jpg"
+        },
+        {
+          "file": "the-tower-of-babel.jpg",
+          "size": 176250,
+          "sha256": "9d7c8c2422cfad608ad184dee9f8699eee615cfc2fff69638f82093a0ffd7724",
+          "url": "packs/paintings/the-tower-of-babel.jpg"
+        },
+        {
+          "file": "wanderer-above-the-sea-of-fog.jpg",
+          "size": 91136,
+          "sha256": "dd8182206bdbb0f54eb089883ae517c40f8bc4be189cfee8f12f6cb9ab9910f2",
+          "url": "packs/paintings/wanderer-above-the-sea-of-fog.jpg"
+        },
+        {
+          "file": "washington-crossing-the-delaware.jpg",
+          "size": 102797,
+          "sha256": "1544f78d4b4ddc7d9c2157e9de32d781f84cf24a429ee25e4f1f83d84b40daef",
+          "url": "packs/paintings/washington-crossing-the-delaware.jpg"
+        },
+        {
+          "file": "water-lilies.jpg",
+          "size": 173621,
+          "sha256": "34178304a9568c9589c0be97454b8c799bce855d416a5be76db127b364f0968b",
+          "url": "packs/paintings/water-lilies.jpg"
+        },
+        {
+          "file": "where-do-we-come-from.jpg",
+          "size": 79671,
+          "sha256": "fd06e2eac2142c5cb7d72ad5985cc08aec5d7576030646419a50a6b67f51aff0",
+          "url": "packs/paintings/where-do-we-come-from.jpg"
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "Science",
+      "icon": "🧪",
+      "color": "#22C55E",
+      "category": "science",
+      "subcategory": "general",
+      "tags": [
+        "physics",
+        "chemistry",
+        "biology",
+        "difficulty-mixed"
+      ],
+      "description": "Physics, chemistry, biology, astronomy, earth science and the human body.",
+      "version": 1,
+      "cards": 57,
+      "size": 14754,
+      "sha256": "d0492c973adb8bcaeb9aa583fad740d16c60fa020e9bf191b385f8d444c51ee8",
+      "contentHash": "7d5b05c634885140f65beca7061da81f944a5499f2829ca9f2a684f8923fe723",
+      "url": "packs/science.json",
+      "bundled": true,
+      "features": {
+        "images": false,
+        "voice": false,
+        "audio": false
+      },
+      "media": []
+    },
+    {
+      "id": "spanish",
+      "name": "Spanish",
+      "icon": "💃",
+      "color": "#F59E0B",
+      "category": "language",
+      "subcategory": "spanish",
+      "tags": [
+        "voice",
+        "beginner"
+      ],
+      "description": "Everyday Spanish words, handy phrases and short sentences.",
+      "version": 1,
+      "cards": 70,
+      "size": 15895,
+      "sha256": "a17feb85ad2e3b7e1a87ec33d47b688664c73363276800824fd6d0c44a15df09",
+      "contentHash": "ac1f8bb930b035ed345726da04d11bb2a55882e63da914c9ecf01af2823babe5",
+      "url": "packs/spanish.json",
+      "bundled": true,
+      "features": {
+        "images": false,
+        "voice": true,
+        "audio": false
+      },
+      "media": []
+    },
+    {
+      "id": "us-capitals",
+      "name": "US State Capitals",
+      "icon": "🏛️",
+      "color": "#6366F1",
+      "category": "geography",
+      "subcategory": "capitals",
+      "tags": [
+        "usa",
+        "difficulty-easy"
+      ],
+      "description": "All 50 states and the capital cities where their laws are made.",
+      "version": 1,
+      "cards": 50,
+      "size": 10767,
+      "sha256": "3609c4beb5feaf84300dbeeb4d2cc807a6745b58095d2448eca6e67616fceb24",
+      "contentHash": "ff36685002efdb45217c2befbcd0bb33b334137de3fc0daa284cfcbc0f663186",
+      "url": "packs/us-capitals.json",
+      "bundled": true,
+      "features": {
+        "images": false,
+        "voice": false,
+        "audio": false
+      },
+      "media": []
+    },
+    {
+      "id": "world-capitals",
+      "name": "World Capitals",
+      "icon": "🗺️",
+      "color": "#3B82F6",
+      "category": "geography",
+      "subcategory": "capitals",
+      "tags": [
+        "world",
+        "difficulty-mixed"
+      ],
+      "description": "Match countries on every continent to their capital cities.",
+      "version": 1,
+      "cards": 77,
+      "size": 15624,
+      "sha256": "5303043b959dd1eabb2665e4f95db3fd1c75e404ccd3eb6377879e4dc8f7c11a",
+      "contentHash": "8eceec53c85380c48ca83a721dfad74f882589e7551854d6e9a077c48a04ffb2",
+      "url": "packs/world-capitals.json",
+      "bundled": true,
+      "features": {
+        "images": false,
+        "voice": false,
+        "audio": false
+      },
+      "media": []
+    },
+    {
+      "id": "world-flags",
+      "name": "World Flags",
+      "icon": "🚩",
+      "color": "#EF4444",
+      "category": "geography",
+      "subcategory": "flags",
+      "tags": [
+        "images",
+        "world",
+        "difficulty-mixed"
+      ],
+      "description": "Tell look-alike banners apart and name the country behind each flag.",
+      "info": [
+        "Flag artwork: flag-icons by Panayiotis Lipiridis (MIT licence)."
+      ],
+      "version": 1,
+      "cards": 55,
+      "size": 182101,
+      "sha256": "ee5c38987c45097757ad81e9b485ea012deae915caed371cbd305f9a6faccb13",
+      "contentHash": "3742310b7f45a15020056a5a67153a71e72525dd9134131fe3493efbe53d951d",
+      "url": "packs/world-flags.json",
+      "bundled": true,
+      "features": {
+        "images": true,
+        "voice": false,
+        "audio": false
+      },
+      "media": [
+        {
+          "file": "ar.svg",
+          "size": 3461,
+          "sha256": "da39bfbe83fd35fae781f605c4a297b632f03ccf72d4cb0499e86dac8370663d",
+          "url": "packs/world-flags/ar.svg"
+        },
+        {
+          "file": "at.svg",
+          "size": 195,
+          "sha256": "c0e5cb3c1d59fd002afd6e2b0dd03787677ca3c9e7b2321f4af6d9e28256ebcd",
+          "url": "packs/world-flags/at.svg"
+        },
+        {
+          "file": "au.svg",
+          "size": 1296,
+          "sha256": "cbb2206c5e59a25d79228306af973666a191e163f0ae337681f447977e6edb18",
+          "url": "packs/world-flags/au.svg"
+        },
+        {
+          "file": "bd.svg",
+          "size": 187,
+          "sha256": "1aabb4a772651fb9a673660233d5bc6f3d78dfc71df09d567769bc97b9eb554f",
+          "url": "packs/world-flags/bd.svg"
+        },
+        {
+          "file": "be.svg",
+          "size": 302,
+          "sha256": "d6aff6fa4c913404eafd53f91c0a9b240fcecaddc8f0ac2160d362e38469342c",
+          "url": "packs/world-flags/be.svg"
+        },
+        {
+          "file": "br.svg",
+          "size": 7140,
+          "sha256": "b0a912826c3ffd7287435ebed66e18fe058e992309c00dc10b430dd41a29ba91",
+          "url": "packs/world-flags/br.svg"
+        },
+        {
+          "file": "ca.svg",
+          "size": 625,
+          "sha256": "345ec9dac057e203f1331b2d3f9f473789864edaee1182a26bc261356bcf72f1",
+          "url": "packs/world-flags/ca.svg"
+        },
+        {
+          "file": "ch.svg",
+          "size": 290,
+          "sha256": "ac676cd39d7032988598ef2dd73f6bebcd767738e3e469705d6a437835ac485c",
+          "url": "packs/world-flags/ch.svg"
+        },
+        {
+          "file": "ci.svg",
+          "size": 277,
+          "sha256": "7a09020c7263a1c35a2fab646bdb4ee16fcc06a292f63d5a1d9f1feb2501ecd2",
+          "url": "packs/world-flags/ci.svg"
+        },
+        {
+          "file": "cl.svg",
+          "size": 552,
+          "sha256": "bcf0ccdf0999a1cd82061202988e1f6088c2070e3e76794d67cb375ef325ef76",
+          "url": "packs/world-flags/cl.svg"
+        },
+        {
+          "file": "cn.svg",
+          "size": 813,
+          "sha256": "981da9bdf82d48e31691f20578cefcb26cf7d0bd95e4ebd5c0df00bdfe988c1a",
+          "url": "packs/world-flags/cn.svg"
+        },
+        {
+          "file": "co.svg",
+          "size": 286,
+          "sha256": "6bab3c96c1657510c6e49354dd40203c69401bee54da497392ab9267334e5fd4",
+          "url": "packs/world-flags/co.svg"
+        },
+        {
+          "file": "de.svg",
+          "size": 221,
+          "sha256": "efd480af5a154a7651f29da23ee0d09dbc892410fb4041898ddf8face336c575",
+          "url": "packs/world-flags/de.svg"
+        },
+        {
+          "file": "dk.svg",
+          "size": 236,
+          "sha256": "d2847c0bd7a1fb97977ee51f2f618c5ebc5898dd66ef9804f187613c27bdca1a",
+          "url": "packs/world-flags/dk.svg"
+        },
+        {
+          "file": "ec.svg",
+          "size": 28777,
+          "sha256": "4472b0618e2f5e31d31d16c0d7d811310c33b07d5a101b54f60fcb7ec84d1d4d",
+          "url": "packs/world-flags/ec.svg"
+        },
+        {
+          "file": "eg.svg",
+          "size": 8726,
+          "sha256": "3f85d1d2bdb03692ad68f84efff36be2f5b1b5b7438b7b7be50def3837bf532f",
+          "url": "packs/world-flags/eg.svg"
+        },
+        {
+          "file": "fi.svg",
+          "size": 234,
+          "sha256": "012edd984cf1879463c2855b7df02dea2f7de7f7a66b244fb1e22b4227f7aa65",
+          "url": "packs/world-flags/fi.svg"
+        },
+        {
+          "file": "fr.svg",
+          "size": 241,
+          "sha256": "a526851c372e3372b1596be71af355ea72b1650bbc4c06e6e2c226900d3de6cc",
+          "url": "packs/world-flags/fr.svg"
+        },
+        {
+          "file": "gb.svg",
+          "size": 504,
+          "sha256": "c8be1e7208798a4ae692ee1e937065d498bb29e741943f6172b29118b8ed8066",
+          "url": "packs/world-flags/gb.svg"
+        },
+        {
+          "file": "gn.svg",
+          "size": 292,
+          "sha256": "ee01e7dd4abb0a995980ec8d0ba2bf314b564c73fcaba39fed8a5f48a7c49753",
+          "url": "packs/world-flags/gn.svg"
+        },
+        {
+          "file": "gr.svg",
+          "size": 868,
+          "sha256": "a184070f7678b06777be8ac38cb05ba41829591a6dac9b64b2b72db66aec82f5",
+          "url": "packs/world-flags/gr.svg"
+        },
+        {
+          "file": "hu.svg",
+          "size": 264,
+          "sha256": "4891ce591bf29b5b68609c29d973a30f1ef109032d8dab369208d0d5f615bc74",
+          "url": "packs/world-flags/hu.svg"
+        },
+        {
+          "file": "id.svg",
+          "size": 178,
+          "sha256": "5cd3acc4939dd7eae6318c8d75df8c0d1733f650e2504a2635b0dbf3dfabb040",
+          "url": "packs/world-flags/id.svg"
+        },
+        {
+          "file": "ie.svg",
+          "size": 289,
+          "sha256": "f82568d70bd1624ff7ce3ced8712a718a224ff2424fd2ade2da4339be3bba463",
+          "url": "packs/world-flags/ie.svg"
+        },
+        {
+          "file": "in.svg",
+          "size": 1090,
+          "sha256": "91185efa1a9b52cdc0e470712518efeefc4e4d6a6555bae9de997ba71885bb98",
+          "url": "packs/world-flags/in.svg"
+        },
+        {
+          "file": "is.svg",
+          "size": 509,
+          "sha256": "4ef2de6fb25ff5a16789e8ffc3b68894527e68c89dce3b4e1118f5bbcc0bb7ae",
+          "url": "packs/world-flags/is.svg"
+        },
+        {
+          "file": "it.svg",
+          "size": 289,
+          "sha256": "9fa88118818d9b64838f578e2babcca3d0630aed21b5c33b34aff7ac5ce506bc",
+          "url": "packs/world-flags/it.svg"
+        },
+        {
+          "file": "jp.svg",
+          "size": 470,
+          "sha256": "bfea80baf9989383dc4bf7ca594ed95be0df0ff125bfc88d0bfa878eb0198022",
+          "url": "packs/world-flags/jp.svg"
+        },
+        {
+          "file": "kr.svg",
+          "size": 1061,
+          "sha256": "7a6cd5b51d0e2841ed8b79b1147ad8a66cf3c09f6344d4a63b5e4413ffa5d15b",
+          "url": "packs/world-flags/kr.svg"
+        },
+        {
+          "file": "lr.svg",
+          "size": 713,
+          "sha256": "69f2ce4b9490ab3c94ca30dc94862e5f1e8cb0f84344e5db0eb9300df5c66146",
+          "url": "packs/world-flags/lr.svg"
+        },
+        {
+          "file": "lu.svg",
+          "size": 225,
+          "sha256": "a0a530e396ac2e2490d32d432a89c08a3d35081816ba089241b9b2b2a76a049e",
+          "url": "packs/world-flags/lu.svg"
+        },
+        {
+          "file": "lv.svg",
+          "size": 263,
+          "sha256": "d0d1ac1c0e301f808be3db32bcd7cdbc8986b6ec15574f557f440caed8b7bb31",
+          "url": "packs/world-flags/lv.svg"
+        },
+        {
+          "file": "mc.svg",
+          "size": 234,
+          "sha256": "690c23fe64b6ac71770657fd87f744b88196a7853abb28017b5bff54473ae0da",
+          "url": "packs/world-flags/mc.svg"
+        },
+        {
+          "file": "ml.svg",
+          "size": 273,
+          "sha256": "49e84081981f2b8ec245dcc66ebf44521fc91b3eae6e9f10c925616f78951f14",
+          "url": "packs/world-flags/ml.svg"
+        },
+        {
+          "file": "mx.svg",
+          "size": 84753,
+          "sha256": "9dbc8ad8b35e52ce7cb686d5cd93bd95e4c0dd8505c184186a740148ffd34901",
+          "url": "packs/world-flags/mx.svg"
+        },
+        {
+          "file": "my.svg",
+          "size": 1378,
+          "sha256": "bb30e84a099d2d9dc286ab091bdd40ae7a8e332eb49827f2df4f11803e613667",
+          "url": "packs/world-flags/my.svg"
+        },
+        {
+          "file": "ne.svg",
+          "size": 273,
+          "sha256": "4b91653d53f76ddaf492a61adad3c1be86528ee9f23d7a18a6044c4eed165cad",
+          "url": "packs/world-flags/ne.svg"
+        },
+        {
+          "file": "nl.svg",
+          "size": 225,
+          "sha256": "8f691f17fe70894537af8e92f2ca47761d353639b0defc15cbe561eb503ab010",
+          "url": "packs/world-flags/nl.svg"
+        },
+        {
+          "file": "no.svg",
+          "size": 318,
+          "sha256": "ceea17af051dceefd5759a824213eb40ac8a8095aa88a6874a7bbc8de637357a",
+          "url": "packs/world-flags/no.svg"
+        },
+        {
+          "file": "nz.svg",
+          "size": 2172,
+          "sha256": "794a2c8c09796090ab748a74bc35aed825e701eaddc46b138f300401ac9a25cd",
+          "url": "packs/world-flags/nz.svg"
+        },
+        {
+          "file": "pe.svg",
+          "size": 186,
+          "sha256": "e9dd299d453d9c173203e60f69623ef2148dbee24b2a1763328e94d4dfece05f",
+          "url": "packs/world-flags/pe.svg"
+        },
+        {
+          "file": "pl.svg",
+          "size": 215,
+          "sha256": "06687a4b90fc00195d0795aea1c26a9f73f1b6ea6a76e358724b2f1f32b7c8f4",
+          "url": "packs/world-flags/pl.svg"
+        },
+        {
+          "file": "ro.svg",
+          "size": 302,
+          "sha256": "17a3a747fc5e63302aaa670a667e5812f3676f46768e5a3e87b254bd41762840",
+          "url": "packs/world-flags/ro.svg"
+        },
+        {
+          "file": "ru.svg",
+          "size": 225,
+          "sha256": "7100aaae51ff3b6a2bf0ca932b3bc518bdc760814725e7cca31d821a26c3dd7c",
+          "url": "packs/world-flags/ru.svg"
+        },
+        {
+          "file": "se.svg",
+          "size": 209,
+          "sha256": "b3b5071e6c1d4a0e3db828bab5c7dfd68d0e90fcf3b25b15e9a2c4f96c1f79c9",
+          "url": "packs/world-flags/se.svg"
+        },
+        {
+          "file": "si.svg",
+          "size": 1993,
+          "sha256": "3a5e0cac44baaea6b6d8e91054844b6ea72764f6dbe363c11ea11fd81203733a",
+          "url": "packs/world-flags/si.svg"
+        },
+        {
+          "file": "sk.svg",
+          "size": 1182,
+          "sha256": "578d0693bc95214334248b47c5719dd01cfc9839bd909a726df045d499fabbb6",
+          "url": "packs/world-flags/sk.svg"
+        },
+        {
+          "file": "sn.svg",
+          "size": 421,
+          "sha256": "6437db13c13fa5cc1b121e6b59739902c6583be6db361260873ce2664f666478",
+          "url": "packs/world-flags/sn.svg"
+        },
+        {
+          "file": "td.svg",
+          "size": 271,
+          "sha256": "19a278fbd88e7fa245b44b40a829bd2bc83f4a2b5521feb665cee8d629e2f026",
+          "url": "packs/world-flags/td.svg"
+        },
+        {
+          "file": "tn.svg",
+          "size": 343,
+          "sha256": "8e0274e5762a4d5f783e64f1206dd69008454f750de21d3ba61439d0af3c577c",
+          "url": "packs/world-flags/tn.svg"
+        },
+        {
+          "file": "tr.svg",
+          "size": 549,
+          "sha256": "256a1d6afbedb9f731566982331a1cd1ad14aba211b8a61d338855879505e74f",
+          "url": "packs/world-flags/tr.svg"
+        },
+        {
+          "file": "us.svg",
+          "size": 648,
+          "sha256": "e7be4240cf57987926673708f09233be1ab6bdf35acc7b86bd32a263f197a2a7",
+          "url": "packs/world-flags/us.svg"
+        },
+        {
+          "file": "uy.svg",
+          "size": 1724,
+          "sha256": "47656c0bf4961a1f7233841eb78756cd45d074e7d4061b8a1217bba7754a30fe",
+          "url": "packs/world-flags/uy.svg"
+        },
+        {
+          "file": "ve.svg",
+          "size": 1206,
+          "sha256": "5712f1c63ba0bfa25a853c100cdebfd6698cce98fc2e0ba8d3fab35df541efa1",
+          "url": "packs/world-flags/ve.svg"
+        },
+        {
+          "file": "vn.svg",
+          "size": 490,
+          "sha256": "2355037201315d74581ab0ad60b5587a29a087d26b0525bdeb8676e64fae5b86",
+          "url": "packs/world-flags/vn.svg"
+        }
+      ]
+    }
+  ]
+}
